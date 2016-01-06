@@ -20,5 +20,5 @@ Deploy stuff immediately.
 
 ### Copyright
 
-(C) 2016 NIP inc.
+(C) 2016 NIP inc. All rights reserved.
 
