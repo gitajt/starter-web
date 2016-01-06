@@ -18,6 +18,10 @@ Some ipsolorem text follows
 
 Deploy stuff immediately.
 
+## How To Contribute
+
+Please fork this repo and then issue Pull Requests review.
+
 ### Copyright
 
 (C) 2016 NIP inc. All rights reserved.
