@@ -2,6 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
+## Introduction
+
+Blah woof. Moo baa.
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -12,4 +16,4 @@ Some ipsolorem text follows
 
 ## Deployment
 
-Deploy stuff.
+Deploy stuff immediately.
