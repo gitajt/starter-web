@@ -17,3 +17,8 @@ Some ipsolorem text follows
 ## Deployment
 
 Deploy stuff immediately.
+
+### Copyright
+
+(C) 2016 NIP inc.
+
