@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 ## Your section heading here
 
 Some ipsolorem text follows
-Here's some other body text for rebasing example.
+Here's some other body text for rebasing example, including changes from the feature branch too.
 
 ## Deployment
 
