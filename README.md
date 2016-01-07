@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 ## Your section heading here
 
 Some ipsolorem text follows
+Here's some other body text for rebasing example.
 
 ## Deployment
 
